@@ -4,7 +4,7 @@
 **ChaudhariHarsha/ChaudhariHarsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-Hi, I'm Harshal Chauhdari, a Computer Engineering Student 👨🏻‍💻 from India, who likes to make **📱 Android apps and 🌐 Website**. I'm a creative problem solving enthusiast and hence I love doing **Competitive Programming** 💻. I have also worked upon some projects based on Machine Learning and IOT.
+Hi, I'm Harshal Chauhdari, a Computer Engineering Student 👨🏻‍💻 from India, who likes to make **📱 Android apps and 🌐 Website**. I'm a creative problem solving enthusiast and hence I love doing **Competitive Programming** 💻. I have also worked upon some projects based on Web Development,App Development,Machine Learning and IOT.
 <br>
 <br>
 ![](https://github.com/ChaudhariHarsha/ChaudhariHarsha/blob/main/header_.png)
