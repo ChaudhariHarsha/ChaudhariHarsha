@@ -9,7 +9,7 @@ Hi, I'm Harshal Chauhdari, a Computer Engineering Student 👨🏻‍💻 from I
 <br>
 ![](https://github.com/ChaudhariHarsha/ChaudhariHarsha/blob/main/header_.png)
 <br>
-- 🔭 I’m currently looking for opportunities in a **Software Development** or **Data Science**
+- 🔭 I’m currently looking for opportunities in a **Software Development** or **Data Structure and Algorithms**
 - 🌱 I’m currently learning Android App Development 
 - 🔭 I’m currently working on Competitive Programming 
 - 💬 Ask me about DSA and CP
